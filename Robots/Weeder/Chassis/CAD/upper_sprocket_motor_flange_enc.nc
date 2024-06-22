@@ -8,6 +8,7 @@ G1 F50 S1000 M5 (Laser cut through black acrylic, Z0 +15mm from table)
 G90 G0 X0 Y0
 
 ; Laser width correction
+;TODO -0.6 is too big on in side, try -0.5 or 0.4
 ; R = (D_tap_drill - 0.6) / 2
 ; M3 2.5 0.95
 ; M4 3.3 1.35
