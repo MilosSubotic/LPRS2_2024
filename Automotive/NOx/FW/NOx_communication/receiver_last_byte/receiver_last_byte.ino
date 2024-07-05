@@ -1,3 +1,10 @@
+
+// Need to install:
+// CAN_Bus_Shield
+// from Seeed Studio
+// https://github.com/Seeed-Studio/Seeed_Arduino_CAN
+
+
 #include <SPI.h>
 
 #define CAN_2515
@@ -11,7 +18,6 @@ const int CAN_INT_PIN = BCM25;
 const int SPI_CS_PIN = 9;
 const int CAN_INT_PIN = 2;
 #endif
-
 
 #ifdef CAN_2518FD
 #include "mcp2518fd_can.h"
