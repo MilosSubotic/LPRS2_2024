@@ -156,7 +156,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/451c4470-16cd-4b22-a741-0ed4e4363fde")
 		(sheetname "Root")
-		(sheetfile "Starter_Q_on_Arduino_Motor_Shield.kicad_sch")
+		(sheetfile "Ctrl_on_Arduino_Motor_Shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.37)
@@ -423,7 +423,7 @@
 		)
 		(path "/3322f2f6-1504-4501-9f90-62fcf47edea2")
 		(sheetname "Root")
-		(sheetfile "Starter_Q_on_Arduino_Motor_Shield.kicad_sch")
+		(sheetfile "Ctrl_on_Arduino_Motor_Shield.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 2.56 2.56)
@@ -605,7 +605,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/f4789f87-d060-4a9c-a3f0-92bf9536ddea")
 		(sheetname "Root")
-		(sheetfile "Starter_Q_on_Arduino_Motor_Shield.kicad_sch")
+		(sheetfile "Ctrl_on_Arduino_Motor_Shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 12.76 -5.96)
@@ -1189,7 +1189,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7f27bd24-654f-41f7-bbd3-00e8c5a00dc1")
 		(sheetname "Root")
-		(sheetfile "Starter_Q_on_Arduino_Motor_Shield.kicad_sch")
+		(sheetfile "Ctrl_on_Arduino_Motor_Shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.1 -1.33)

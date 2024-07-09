@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Starter_Q_on_Arduino_Motor_Shield.kicad_pro",
+    "filename": "Ctrl_on_Arduino_Motor_Shield.kicad_pro",
     "version": 1
   },
   "net_settings": {
